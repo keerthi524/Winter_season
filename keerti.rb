@@ -6,6 +6,9 @@ I am sample test
 4) remote repository
 
 
+it is changd
+
+
 working directory 
 
 after git add it will go to staging area
